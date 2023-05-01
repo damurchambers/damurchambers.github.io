@@ -17,7 +17,7 @@ subtitle: "A free HTML5 agency template"
 url: "https://damurchambers.github.io" # the base hostname & protocol for your site
 # baseurl: "/" # Set this value to "" if you want your site to be root
 baseurl: ""
-cover: "/assets/cover.png"
+cover: ""
 logo: "/assets/logo.png"
 
 # Build settings
