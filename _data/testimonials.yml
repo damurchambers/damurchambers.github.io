@@ -1,16 +1,10 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: 김현철
+  title: 대표변호사
+  career: "
+전) DGB금융지주 준법지원부 사내 변호사<br>
+전) 중소벤처기업진흥공단 사내 변호사<br>
+전) 법무법인 부산 변호사"
+  education: "서울대학교 졸업(BA, 2007)<br>
+고려대학교 대학원 법학과(2007~)<br>
+부산대학교 법학전문대학원 졸업(JD, 2015)"
+  image: img/김현철_profile.jpg

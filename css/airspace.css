@@ -166,6 +166,14 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
   padding: 90px 0;
 }
+#service .row{
+  display: flex;
+  flex-wrap: wrap;
+}
+#service .row div {
+  flex:1;
+}
+
 #service .service-item {
   padding-bottom: 30px;
 }
