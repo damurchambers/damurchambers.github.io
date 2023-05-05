@@ -813,3 +813,17 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+
+/* Custom Font size */
+
+.as-3xl {
+  font-size:3em;
+}
+
+.fa-4xl {
+  font-size:4em;
+}
+
+.fa-4xl {
+  font-size:5em;
+}
