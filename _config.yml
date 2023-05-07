@@ -12,8 +12,10 @@ keep_files:
   - ".gitignore"
 
 # Site settings
-title: Damurchambers
-subtitle: "A free HTML5 agency template"
+title: "다물 법률사무소"
+subtitle: "법률사무소 다물"
+description: "신뢰할 수 있는 법률 사무소, 다물"
+keywords: "법률사무소, 변호사, 다물, damurchambers"
 url: "https://damurchambers.github.io" # the base hostname & protocol for your site
 # baseurl: "/" # Set this value to "" if you want your site to be root
 baseurl: ""
