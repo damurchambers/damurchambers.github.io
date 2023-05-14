@@ -3,3 +3,39 @@ layout: page
 title: 구성원
 permalink: /members
 ---
+
+<section id="intro">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6">
+            <div class="block">
+                <img src="img/portrait_profile.jpeg" alt="김현철 변호사"/>
+              </div>
+        </div>
+        <div class="col-md-6 col-sm-6">
+            <div class="block">
+                {% for tm in site.data.testimonials %}
+                <div class="row user">
+                    <div class="col-md-12">
+                    <h1>{{ tm.title }}</h1>
+                    <h2 class="bottom_line">{{tm.name}}</h2>
+                    <h3>경력</h3>
+                    <p>{{tm.career }}</p>
+                    <h3>학력</h3>
+                    <p>{{tm.education }}</p>
+                    <h3>활동</h3>
+                    <p>{{tm.action }}</p>
+                    <h3>강연 & 멘토링 및 교육</h3>
+                    <p>{{tm.mentoring }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <!-- .col-md-7 close -->
+        <!-- <div class="col-md-5 col-sm-12">
+          
+        </div> -->
+      </div>
+    </div>
+  </section>

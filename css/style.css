@@ -32,3 +32,24 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+
+/* 한국어 폰트 */
+
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@font-face {
+  font-family: 'Busan';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/govs/busan/Busan/Busan.woff2') format('woff2'),
+  url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/govs/busan/Busan/Busan.woff') format('woff');
+}
+
+h1,h2,h3,h4,p,span {
+  font-family: 'Busan', 'Nanum Gothic', sans-serif;
+ }
+
+ .bottom_line{
+  border-bottom: 1px solid rgb(164, 164, 164);
+  padding-bottom: 0.5em; /* 선의 높이 조절 */
+ }
