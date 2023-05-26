@@ -180,6 +180,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
   margin: 0;
   color: #666;
+  font-weight: bold;
 }
 #service .service-item p {
   color: #888;
