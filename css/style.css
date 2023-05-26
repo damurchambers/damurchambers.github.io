@@ -57,7 +57,7 @@ h1,h2,h3,h4,p,span {
  p.bold_gs {
   display:inline-block;
   font-family:"ChosunGs";
-  font-size:2em;
+  font-size:1.4em;
   font-weight:bold;
  }
  p.bold_gs_small {
