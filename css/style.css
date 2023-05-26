@@ -35,6 +35,13 @@
 
 
 /* 한국어 폰트 */
+@font-face {
+  font-family: 'ChosunGs';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunGs.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 h1,h2,h3,h4,p,span {
@@ -44,4 +51,18 @@ h1,h2,h3,h4,p,span {
  .bottom_line{
   border-bottom: 1px solid rgb(164, 164, 164);
   padding-bottom: 0.5em; /* 선의 높이 조절 */
+ }
+
+
+ p.bold_gs {
+  display:inline-block;
+  font-family:"ChosunGs";
+  font-size:2em;
+  font-weight:bold;
+ }
+ p.bold_gs_small {
+  display:inline-block;
+  font-family:"ChosunGs";
+  font-size:1em;
+  font-weight:bold;
  }

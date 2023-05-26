@@ -58,7 +58,6 @@ a:active {
 }
 .section-title p {
   font-family: "Noto Sans KR",sans-serif;
-  font-style: italic;
   color: #666;
 }
 /*--
@@ -166,13 +165,13 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
   padding: 50px 0;
 }
-#service .row{
+/* #service .row{
   display: flex;
   flex-wrap: wrap;
 }
 #service .row div {
   flex:1;
-}
+} */
 
 #service .service-item {
   padding-bottom: 30px;
