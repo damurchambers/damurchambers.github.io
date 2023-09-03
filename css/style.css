@@ -52,7 +52,7 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 h1,h2,h3,h4,p,span {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Sans KR','Nanum Gothic', sans-serif;
  }
 
  .bottom_line{
@@ -63,13 +63,13 @@ h1,h2,h3,h4,p,span {
 
  p.bold_gs {
   display:inline-block;
-  font-family:"ChosunGs";
+  font-family: 'Noto Sans KR','Nanum Gothic', sans-serif;
   font-size:1.4em;
   font-weight:bold;
  }
  p.bold_gs_small {
   display:inline-block;
-  font-family:"ChosunGs";
+  font-family: 'Noto Sans KR','Nanum Gothic', sans-serif;
   font-size:1em;
   font-weight:bold;
  }
