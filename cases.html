@@ -1,0 +1,32 @@
+---
+layout: page
+title: 업무사례
+permalink: /cases
+---
+<section id="intro">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 text-center">
+            <div class="block">
+                {% for tm in site.data.testimonials %}
+                <div class="row user">
+                    <div class="col-md-12">
+                    <h1 style="display:inline-block;">업무사례</h1>
+                    <h3 style="font-weight:bold;margin-top:30px;">소송수행</h3>
+                    <p>{{tm.case_litigation }}</p>
+                    <h3 style="font-weight:bold;margin-top:30px;">금융·행정</h3>
+                    <p>{{tm.case_finance }}</p>
+                    <h3 style="font-weight:bold;margin-top:30px;">민사·상사</h3>
+                    <p>{{tm.case_civil }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <!-- .col-md-7 close -->
+        <!-- <div class="col-md-5 col-sm-12">
+          
+        </div> -->
+      </div>
+    </div>
+  </section>
