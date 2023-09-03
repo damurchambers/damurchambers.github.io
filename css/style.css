@@ -65,11 +65,11 @@ h1,h2,h3,h4,p,span {
   display:inline-block;
   font-family: 'Noto Sans KR','Nanum Gothic', sans-serif;
   font-size:1.4em;
-  font-weight:bold;
+  font-weight: 800;
  }
  p.bold_gs_small {
   display:inline-block;
   font-family: 'Noto Sans KR','Nanum Gothic', sans-serif;
   font-size:1em;
-  font-weight:bold;
+  font-weight: 800;
  }
