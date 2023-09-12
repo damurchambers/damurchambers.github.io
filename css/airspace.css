@@ -58,7 +58,7 @@ a:active {
 }
 .section-title p {
   font-family: 'Noto Sans KR','Nanum Gothic', sans-serif;
-  color: #666;
+  color: black;
 }
 /*--
 	Header Start
@@ -82,12 +82,12 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: black;
   padding: 10px 26px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
-  color: #000;
+  color: #777;
 }
 /*---------------------------------------------
 					Index Start
@@ -145,7 +145,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom:20px;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: black;
 }
 #intro .block img {
   padding-left: 40px;
@@ -180,11 +180,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: black;
   font-weight: bold;
 }
 #service .service-item p {
-  color: #888;
+  color: black;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -263,7 +263,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: black;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
@@ -279,12 +279,12 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .block h2 {
   line-height: 27px;
-  color: #5C5C5C;
+  color: black;
   padding-top: 110px;
 }
 #testimonial .block p {
   padding-top: 50px;
-  color: #7B7B7B;
+  color: black;
 }
 #testimonial .counter-box li {
   width: 50%;
@@ -325,11 +325,11 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 0;
   font-size: 12px;
   line-height: 20px;
-  color: #353241;
+  color: black;
 }
 #testimonial .testimonial-carousel .user p span {
   display: block;
-  color: #353241;
+  color: black;
   font-weight: 600;
 }
 #testimonial .testimonial-carousel .owl-carousel .owl-pagination div {
@@ -787,10 +787,10 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: black;
 }
 footer a {
-  color: #595959;
+  color: black;
 }
 footer .footer-manu {
   padding-bottom: 25px;
