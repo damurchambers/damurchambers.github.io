@@ -4858,7 +4858,7 @@ h1,h2,h3,h4,p,span {
  }
 
  .bottom_line{
-  border-bottom: 1px solid rgb(164, 164, 164);
+  border-bottom: 1px solid rgb(40, 33, 33);
   padding-bottom: 0.5em; /* 선의 높이 조절 */
  }
 
@@ -4870,9 +4870,8 @@ h1,h2,h3,h4,p,span {
  }
 
  p.bold_intro_title {
-  font-size:20px;
-  font-weight:500;
-  color:#333;
+  font-weight:800;
+  color:black;
   line-height:150%;
  }
 
