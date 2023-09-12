@@ -789,6 +789,7 @@ footer p {
   font-size: 13px;
   line-height: 25px;
   color: black;
+  word-break: keep-all;
 }
 footer a {
   color: black;
